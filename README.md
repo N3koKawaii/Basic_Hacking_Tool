@@ -3,7 +3,7 @@ This is just a simple and newbie hacking project combines with some commands and
 
 ::Modules::<br>
 ==> Ping Target <br>
-==> Device scanning <br>
+==> Device Scanning <br>
 ==> Port Scanning <br>
 ==> ARP Spoofer <br>
 ==> Packet Sniffer <br>
